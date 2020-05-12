@@ -1,0 +1,32 @@
+{
+  "1": {
+    "name": "CheapV(30)",
+    "tooldia": 0.2,
+    "offset": "Path",
+    "offset_value": 0.0,
+    "type": "Iso",
+    "tool_type": "V",
+    "data": {
+      "cutz": -0.115,
+      "multidepth": false,
+      "depthperpass": 0.8,
+      "vtipdia": 0.1,
+      "vtipangle": 30.0,
+      "travelz": 2.0,
+      "feedrate": 120.0,
+      "feedrate_z": 60.0,
+      "feedrate_rapid": 1500.0,
+      "spindlespeed": 1000,
+      "dwell": false,
+      "dwelltime": 1.0,
+      "ppname_g": "default",
+      "extracut": false,
+      "extracut_length": 0.1,
+      "toolchange": false,
+      "toolchangexy": "0.0, 0.0",
+      "toolchangez": 8.0,
+      "startz": null,
+      "endz": 8.0
+    }
+  }
+}
